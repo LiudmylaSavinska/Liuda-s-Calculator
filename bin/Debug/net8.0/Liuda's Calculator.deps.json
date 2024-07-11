@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Liuda's Calculator/1.0.0": {
+        "runtime": {
+          "Liuda's Calculator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Liuda's Calculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

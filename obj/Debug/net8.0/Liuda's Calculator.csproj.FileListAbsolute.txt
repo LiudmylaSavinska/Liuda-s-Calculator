@@ -1,0 +1,14 @@
+/Users/lucy/Documents/Liuda's Calculator/bin/Debug/net8.0/Liuda's Calculator
+/Users/lucy/Documents/Liuda's Calculator/bin/Debug/net8.0/Liuda's Calculator.deps.json
+/Users/lucy/Documents/Liuda's Calculator/bin/Debug/net8.0/Liuda's Calculator.runtimeconfig.json
+/Users/lucy/Documents/Liuda's Calculator/bin/Debug/net8.0/Liuda's Calculator.dll
+/Users/lucy/Documents/Liuda's Calculator/bin/Debug/net8.0/Liuda's Calculator.pdb
+/Users/lucy/Documents/Liuda's Calculator/obj/Debug/net8.0/Liuda's Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucy/Documents/Liuda's Calculator/obj/Debug/net8.0/Liuda's Calculator.AssemblyInfoInputs.cache
+/Users/lucy/Documents/Liuda's Calculator/obj/Debug/net8.0/Liuda's Calculator.AssemblyInfo.cs
+/Users/lucy/Documents/Liuda's Calculator/obj/Debug/net8.0/Liuda's Calculator.csproj.CoreCompileInputs.cache
+/Users/lucy/Documents/Liuda's Calculator/obj/Debug/net8.0/Liuda's Calculator.dll
+/Users/lucy/Documents/Liuda's Calculator/obj/Debug/net8.0/refint/Liuda's Calculator.dll
+/Users/lucy/Documents/Liuda's Calculator/obj/Debug/net8.0/Liuda's Calculator.pdb
+/Users/lucy/Documents/Liuda's Calculator/obj/Debug/net8.0/Liuda's Calculator.genruntimeconfig.cache
+/Users/lucy/Documents/Liuda's Calculator/obj/Debug/net8.0/ref/Liuda's Calculator.dll
